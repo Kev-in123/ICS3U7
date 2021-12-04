@@ -1,0 +1,72 @@
+Program                                                  Memory        Output
+
+for (int i = 3; i <= 5; i++) {                           i = 3
+  System.out.println("Hello");                                         Hello         
+}                                                        i = 4
+System.out.println("Good-bye");                                        Hello
+                                                         i = 5
+                                                                       Hello
+                                                                       Good-bye           
+
+
+
+for (int count = -3; count <= 1; count = count + 2) {    count = -3    
+    System.out.println(count);                                         -3
+}                                                        count = -1
+                                                                       -1
+                                                         count = 1
+                                                                       1
+
+
+
+for (int i = 8; i > 3; i = i – 1) {                      i = 8
+  System.out.println(i + 2);                                            10
+}                                                        i = 7
+                                                                        9
+                                                         i = 6
+                                                                        8
+                                                         i = 5
+                                                                        7
+                                                         i = 4
+                                                                        6
+                                                         i = 3
+                                                                        5
+
+
+
+int first, second;
+
+System.out.print("Enter starting value: ");                             Enter starting value: 
+first = sc.nextInt();                                    first = 11
+System.out.print("Enter ending value:");                                Enter ending value: 
+second = sc.nextInt();                                   second = 15
+
+for (int i = first; i <= second; i++) {                  i = 11
+    System.out.println(i);                                              11
+    System.out.println("*");                                            *
+}                                                        i = 12
+                                                                        12
+                                                                        *
+                                                         i = 13
+                                                                        13
+                                                                        *
+                                                         i = 14
+                                                                        14
+                                                                        *
+                                                         i = 15
+                                                                        15
+                                                                        *
+
+
+
+int first, second;
+
+System.out.print("Enter starting value: ");                             Enter starting value: 
+first = sc.nextInt();                                    first = 5
+System.out.print("Enter ending value:");                                Enter ending value: 
+second = sc.nextInt();                                   second = 3
+
+for (int i = first; i <= second; i++) {                  i = 5
+    System.out.println(i);
+    System.out.println("*");
+}
