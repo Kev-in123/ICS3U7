@@ -1,0 +1,25 @@
+1. 0 times
+
+2. infinite times
+
+3.
+                                            Memory                  Output
+int m = 10;                                 m = 10
+int n = 0;                                  n = 0
+while (m > n) {                             m > n = true
+  System.out.println(m + "^" + n);                                  10^0
+  m--;                                      m = 9
+  n += 2;                                   n = 2
+}                                           m > n = true
+                                                                    9^2
+                                            m = 8
+                                            n = 4
+                                            m > n = true
+                                                                    8^4
+                                            m = 7
+                                            n = 6
+                                            m > n = true
+                                                                    7^6
+                                            m = 5
+                                            n = 8
+                                            m > n = false
