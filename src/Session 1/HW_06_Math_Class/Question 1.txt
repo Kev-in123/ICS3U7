@@ -1,0 +1,5 @@
+a) java.lang
+b) abs(), 4
+c) pow(num1, num2)
+d) random()
+e) static methods
