@@ -1,0 +1,5 @@
+a) 2
+b) skiResorts[2]
+c) 6
+d) 5
+e) Snowmass
