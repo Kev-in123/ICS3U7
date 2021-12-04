@@ -1,0 +1,32 @@
+Program                                                         Memory                                        Output
+
+int input, min;
+System.out.print ("Enter a number: ");                                                                        Enter a number: 
+input = sc.nextInt ();                                          input = 23
+min = input;                                                    min = 23
+
+while (input != -1)
+{
+   if (input < min)
+   {
+     min = input;
+   }
+   System.out.print ("Enter a number:  ");                                                                    Enter a number: 
+   input = sc.nextInt ();                                       input = 45
+}
+System.out.println (min);                                                                                     Enter a number: 
+                                                                input = 67
+                                                                                                              Enter a number: 
+                                                                input = 95
+                                                                                                              Enter a number: 
+                                                                input = 86
+                                                                                                              Enter a number: 
+                                                                input = 6
+                                                                min = 6
+                                                                                                              Enter a number: 
+                                                                input = 93
+                                                                                                              Enter a number: 
+                                                                input = 6
+                                                                                                              Enter a number: 
+                                                                input = -1
+                                                                                                              6

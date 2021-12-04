@@ -1,0 +1,15 @@
+Program                        Memory                Output
+
+int x = 3;                     x = 3
+int y = 15;                    y = 15
+do
+{
+   x = x + 3;                  x = 6
+   y = y - 1;                  y = 14
+   System.out.println (x);                          6
+} while (x != y);              x = 9
+                               y = 13
+                                                    9
+                               x = 12
+                               y = 12
+                                                    12
