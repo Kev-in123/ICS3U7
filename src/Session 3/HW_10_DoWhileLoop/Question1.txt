@@ -1,0 +1,6 @@
+How many items to add?
+-5
+Give a positive value.
+0
+Give a positive value.
+26
