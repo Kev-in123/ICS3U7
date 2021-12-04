@@ -1,0 +1,19 @@
+a)
+Memory     Output
+a = 3
+b = 9
+            9
+a = 11
+a = 20
+            12
+            20
+
+b)
+Memory     Output
+ans = 10
+res = 6
+num = 0
+num = 16
+            18
+res = 22
+            22
