@@ -1,0 +1,74 @@
+1. apple
+
+2. orange
+
+3. apple
+
+4.
+apple
+orange
+
+5. apple
+
+6. orange
+
+7. pear
+
+8. 
+apple
+orange
+pear
+
+9. apple
+
+10. pear
+
+11. apple
+
+12. 
+pear
+banana
+
+13. 
+apple
+orange
+
+14. orange
+
+15. 
+orange
+pear
+
+16. apple
+
+17. 
+orange
+pear
+
+18. pear
+
+19. orange
+
+20. orange
+
+21. 
+apple
+orange
+banana
+kiwi
+coconut
+
+22. System.out.println((count % sum == 0) ? "Hurrah!" : "");
+
+23. if (total == 0) total++; else total--;
+    
+24. System.out.println((num == 0) ? "num is zero" : (num > 0) ? "num is positive"  : "num is negative");
+
+25. System.out.println((num == 0) ? "num is 0" : (num % 2 == 0) ? "num is even"  : "num is odd");
+
+
+
+
+
+
+

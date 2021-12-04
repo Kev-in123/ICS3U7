@@ -1,0 +1,37 @@
+1. orange
+
+2. orange
+
+3.
+apple
+orange
+
+4.
+apple
+orange
+
+5. orange
+
+6.
+apple
+orange
+
+7.
+apple
+orange
+
+8.
+apple
+orange
+
+9. orange
+
+10. System.out.println((result >= 500) ? "Victory" : (result == 0) ? "penalty" : "");
+
+11. if (num1 > num2) smallest = num2; else smallest = num1;
+
+12. smallest = ((num1 < num2 && num2 < num3) ? num1 : (num2 < num1 && num2 < num3) ? num2 : num3);
+
+13. System.out.println((val1 == val2) ? "Equal" : (Math.abs(val1 - val2) <= 0.0001) ? "Essentially Equal" : "Not Equal");
+
+

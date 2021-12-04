@@ -1,0 +1,72 @@
+1.
+true
+false
+true
+false
+
+2.
+
+Program                                           Output         Memory
+int num = 10;                                                    num = 10
+if (num >= 5 && num <= 10) {
+  num = 0;                                                       num = 1
+} else if (num == 0) {
+  System.out.println("equal 0");
+}
+System.out.println("Over");                       Over
+
+
+
+int num;
+num = sc.nextInt();                                              num = 0
+if (num == 2) {
+  System.out.println("bird");
+} else if (num < 2 && num !=0 ) {
+  System.out.println("cat");
+} else if (num != 0) {
+  System.out.println("dog");
+} else {
+  System.out.println("fish");                     fish
+}
+
+
+
+int num;
+num = sc.nextInt();                                              num = 1
+if (num == 2) {
+  System.out.println("bird");
+} else if (num < 2 && num !=0 ) {
+  System.out.println("cat");                      cat
+} else if (num != 0) {
+  System.out.println("dog");
+} else {
+  System.out.println("fish");
+}
+
+
+
+int num;
+num = sc.nextInt();                                              num = 2
+if (num == 2) {
+  System.out.println("bird");
+} else if (num < 2 && num !=0 ) {
+  System.out.println("cat");
+} else if (num != 0) {
+  System.out.println("dog");                    dog
+} else {
+  System.out.println("fish");
+}
+
+
+
+int num;
+num = sc.nextInt();                                              num = 3
+if (num == 2) {
+  System.out.println("bird");
+} else if (num < 2 && num !=0 ) {
+  System.out.println("cat");
+} else if (num != 0) {
+  System.out.println("dog");                   dog
+} else {
+  System.out.println("fish");
+}

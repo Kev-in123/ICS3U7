@@ -1,0 +1,57 @@
+1. &&
+
+2. ||
+
+3. true, false
+
+4. b = p && q
+
+5. w = ((x > 0)  || (y ==z ))
+
+6. if (a != b) {bool kDog = true;}
+
+7. if (!(a == b)) {bool kDog = true;}
+
+8. 4
+
+9. true
+
+10. true
+
+11. true
+
+12. false
+
+13. true
+
+14. 
+a       b       (!a && b)                     a       b       (a || !b)
+false   false   false                         false   false   true
+false   true    true                          false   true    false
+true    false   false                         true    false   true
+true    true    false                         true    true    true
+
+15. true
+
+16. true
+
+17. true
+
+18. false
+
+19. false
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
