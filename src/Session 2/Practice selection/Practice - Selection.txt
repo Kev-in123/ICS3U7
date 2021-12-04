@@ -1,0 +1,64 @@
+1.
+a) true
+b) false
+c) false
+d) true
+
+
+2.
+Program                          Memory                          Output
+char ch = 'z';                   ch = 'z'
+int a = 1;                       a = 1
+int b = 2;                       b = 2
+if (ch > 'Z') {
+  a = a + 1;                     a = 3
+} else {
+  a = a + 2
+}
+if (ch < 'Z') {
+  b = b * 2;
+} else if (ch == 'Z') {
+  b = b * b;
+}
+System.out.print(a);                                              3                                                  
+System.out.println(b);                                            2
+
+
+3.
+a) nothing
+b) "Reject"
+d) nothing
+c) "Accept"
+
+
+8.
+if (temperature > maxTemp) {
+  System.out.println("Porridge too hot");
+} else if (temperature < minTemp) {
+  System.out.println("Porridge too cold");
+} else {
+  System.out.println("Porridge just right!");
+}
+
+
+9.
+a)
+if (6 < age && age < 19) {
+  System.out.println("What school do you go to?");
+}
+
+b)
+if (18 < age || age < 13) {
+  System.out.println("You won't like the music.");
+}
+
+c)
+if (qty_bought > 10 && price > 50) {
+  discount = 0.12 * price;
+}
+
+
+d)
+if ((gender == "woman" && age > 60) || (gender == "man" && age > 65)) {
+  System.out.println("RETIRED!");
+}
