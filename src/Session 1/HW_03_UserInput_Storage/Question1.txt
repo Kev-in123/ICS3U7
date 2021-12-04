@@ -1,0 +1,5 @@
+3rdTime - variable names can't start with a digit
+valueIn$ - variable names should only contain letters, numbers and underscores
+this - variable names should not be reserved words
+second-time - variable names should only contain letters, numbers and underscores
+word Length - variable names should only contain letters, numbers and underscores
