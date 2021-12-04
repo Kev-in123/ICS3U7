@@ -1,0 +1,67 @@
+Memory                          Output
+num = {3, 5, 6, 7, 8, 10}
+                                Before Adding One:
+i = 0
+                                num[0] = 3
+i = 1
+                                num[1] = 5
+i = 2
+                                num[2] = 6
+i = 3
+                                num[3] = 7 
+i = 4
+                                num[4] = 8  
+i = 5
+                                num[5] = 10
+                                Begin Procedure:
+a = {3, 5, 6, 7, 8, 10}
+i = 0
+                                a[0] = 3
+i = 1
+                                a[1] = 5
+i = 2
+                                a[2] = 6
+i = 3
+                                a[3] = 7 
+i = 4
+                                a[4] = 8
+i = 5
+                                a[5] = 10
+i = 0
+a[0] = 4
+i = 1
+a[1] = 6
+i = 2
+a[2] = 7
+i = 3
+a[3] = 8
+i = 4
+a[4] = 9
+i = 5
+a[5] = 11
+                                End Procedure:
+i = 0
+                                a[0] = 4
+i = 1
+                                a[1] = 6
+i = 2
+                                a[2] = 7
+i = 3
+                                a[3] = 8
+i = 4
+                                a[4] = 9
+i = 5
+                                a[5] = 11
+                                After Adding One:
+i = 0
+                                nums[0] = 3
+i = 1
+                                nums[1] = 5
+i = 2
+                                nums[2] = 6
+i = 3
+                                nums[3] = 7
+i = 4
+                                nums[4] = 8
+i = 5
+                                nums[5] = 10

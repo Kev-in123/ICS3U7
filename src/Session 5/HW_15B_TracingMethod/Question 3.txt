@@ -1,0 +1,9 @@
+Memory                          Output
+num = 10
+                                Before Adding One: num = 10
+a = 10
+                                Begin Procedure: a = 10
+a = 11
+                                End Procedure: a = 11
+num = 10
+                                After Adding One: num = 10

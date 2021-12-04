@@ -1,0 +1,14 @@
+Memory                          Output
+a = 10
+b = 20
+                                Before swap: a = 10 b = 20
+                                Beginning of procedure: num1 = 10 num2 = 20
+num1 = 10
+num2 = 20
+temp = 20
+num2 = 10
+num1 = 20
+                                Beginning of procedure: num1 = 20 num2 = 10
+a = 10
+b = 20
+                                After swap: a = 10 b = 20
