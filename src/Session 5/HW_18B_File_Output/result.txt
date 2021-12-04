@@ -1,0 +1,11 @@
+The student with the highest average is: 5
+80.0
+92.2
+81.4
+81.8
+87.0
+95.8
+82.4
+72.2
+84.0
+92.2
