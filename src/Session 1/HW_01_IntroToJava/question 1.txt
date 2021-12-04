@@ -1,0 +1,8 @@
+a. Testing
+b. Testing.java
+c. Testing.class
+d. public class Testing{           }
+e. public static void main(String[] args) {      }
+f. /* output line */
+g. None
+h. print "Testing"
