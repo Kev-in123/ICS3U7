@@ -1,0 +1,88 @@
+1. Name, Attributes, and Methods
+
+2. One
+
+3. Instance
+
+4. Two
+
+5. Two
+
+6. 
+class W1 {
+  publuc static void main(String[] args) {
+    Animal animal1 = new Animal();
+    Animal animal2 = new Animal();
+    animal1.speak();
+  }
+}
+
+7. 
+a) Animal cannot be resolved to a variable
+b) My name is Unknown
+c) Error
+
+8. Yes
+
+9. 
+a) My name is Simba
+b) Simba
+c) Error
+d) Error
+
+
+10. `Animal` is the superclass and `Lion` is the subclass
+
+11. A class is a blueprint from which objects are created.
+    An instance is a single unit of a class.
+
+12. Yes, you can make the speak() method private.
+    But since it is void, making it private would make it useless so there isn't a point in doing so.
+
+13. 
+a) N/A
+b) N/A
+c) AAAAAAAABBBBBBAAAAAAAAMadonna:111-22-3333
+d) Name is: Bob
+e) Error
+f) Error
+g) Error
+h) Error
+i) N/A
+j)
+AAAAAAAAAAAAAAAABBBBBBAAAAAAAABBBBBB     
+Name is: Anna
+Ed:1234
+Tom:678
+
+14. 
+c) No Error
+d) Error
+e) No Error
+
+15. 
+a) public void insert(String s) {...}
+b) public void insert(int i) {...}
+c) public void insert(String s) {...}
+
+16. 
+a) class
+b) instance
+c) 
+Error
+Error
+Error
+314
+
+d) 
+3.14
+3.14
+1
+Error
+1
+Error
+Circle@2d363fb3
+
+17. 
+Abstract methods do not specify a body
+The type MyClass must implement the inherited abstract method SomeClass.someMethod()
