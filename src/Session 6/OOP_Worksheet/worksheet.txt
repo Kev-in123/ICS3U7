@@ -1,4 +1,4 @@
-1. Name, Attributes, and Methods
+1. Attributes, Constructors, and Methods
 
 2. One
 
@@ -6,7 +6,7 @@
 
 4. Two
 
-5. Two
+5. Four
 
 6. 
 class W1 {
@@ -14,6 +14,7 @@ class W1 {
     Animal animal1 = new Animal();
     Animal animal2 = new Animal();
     animal1.speak();
+    animal2.speak();
   }
 }
 
@@ -28,7 +29,7 @@ c) Error
 a) My name is Simba
 b) Simba
 c) Error
-d) Error
+d) roar!
 
 
 10. `Animal` is the superclass and `Lion` is the subclass
@@ -47,10 +48,9 @@ d) Name is: Bob
 e) Error
 f) Error
 g) Error
-h) Error
-i) N/A
+h) Error    
+i) AAAAAAAAAAAAAAAABBBBBBAAAAAAAABBBBBB
 j)
-AAAAAAAAAAAAAAAABBBBBBAAAAAAAABBBBBB     
 Name is: Anna
 Ed:1234
 Tom:678
@@ -71,15 +71,15 @@ b) instance
 c) 
 Error
 Error
-Error
-314
+1.0
+314.0
 
 d) 
 3.14
 3.14
-1
+1.0
 Error
-1
+1.0
 Error
 Circle@2d363fb3
 
