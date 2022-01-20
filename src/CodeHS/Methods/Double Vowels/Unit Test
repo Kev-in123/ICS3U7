@@ -1,0 +1,13 @@
+public String doubleVowel(String str)
+{
+    String s = "";
+    char c;
+    for (String i: str.split("")) {
+        c = i.charAt(0);
+        if (c == 'a' || c == 'e' || c == 'i' || c == 'o' || c == 'u' || c == 'A' || c == 'E' || c == 'I' || c == 'O' || c == 'U') {
+            s += Character.toString(c);
+        }
+        s += Character.toString(c);
+    }
+    return s;
+}

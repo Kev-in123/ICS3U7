@@ -1,0 +1,4 @@
+public String tripleString(String str)
+{
+return str + str + str;
+}
