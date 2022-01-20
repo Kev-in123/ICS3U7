@@ -1,0 +1,12 @@
+public double median(int[] arr)
+{
+    Arrays.sort(arr);
+    int length = arr.length;
+    int middle = length/2;
+    int midVal = arr[middle];
+    if (length % 2 != 0) {
+        return midVal;
+    }
+    int midVal2 = arr[middle - 1];
+    return (double) (midVal + midVal2)/2;
+}

@@ -1,0 +1,8 @@
+public int sumRow(int[][] matrix, int row) {
+    int sum = 0;
+    for (int j: matrix[row]) {
+        sum += j;
+    }
+    
+    return sum;
+}
