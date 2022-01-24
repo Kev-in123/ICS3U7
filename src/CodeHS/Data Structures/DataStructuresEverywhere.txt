@@ -1,0 +1,1 @@
+many games use arrays to make queue for events that are happening
