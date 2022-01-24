@@ -1,4 +1,0 @@
-public String fullName(String first, String last)
-{
-    return first + " " + last;
-}
