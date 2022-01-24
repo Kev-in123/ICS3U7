@@ -1,2 +1,0 @@
-primitives are passed by value
-for objects, the copy of the reference is passed
