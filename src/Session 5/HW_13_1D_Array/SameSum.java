@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class SameSun {
+public class SameSum {
   public static void main(String[] args) {
     Scanner s = new Scanner(System.in);
     // initialize 2 arrays
